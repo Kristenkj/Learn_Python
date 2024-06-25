@@ -2,8 +2,8 @@
 """
 from selenium.webdriver.common.by import By
 
-By.ID ~ best ~
-By.XPATH ~awesome~
+By.ID ~ best in the world ~ If two elements have the same ID report it as a bug
+By.XPATH
 By.CSS SELECTOR ~ 2nd best ~
 By.CLASS_NAME
 By.LINK_TEXT
