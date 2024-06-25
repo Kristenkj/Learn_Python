@@ -1,0 +1,6 @@
+
+apple
+bat
+cat
+dog
+e
