@@ -4,26 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00b043ce-1949-413c-b3e1-6a002daab331" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/learn_python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="00b043ce-1949-413c-b3e1-6a002daab331" name="Changes" comment="6/25/2024">
+      <change afterPath="$PROJECT_DIR$/JUN/finding_elements/by_link_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUN/finding_elements/by_partial_link_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUN/finding_elements/by_tag_class_and_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUN/finding_elements/by_xpath.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kristenkj&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kristenkj/Learn_Python.git&quot;,
+    &quot;accountId&quot;: &quot;188a2adb-19e7-4030-a38b-fcb06f0f4dd3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2iLAEgK81JgO6H4y8yRlLLCmPN7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,13 +49,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.by_css.executor": "Run",
+    "Python.by_css_and_xpath.executor": "Run",
+    "Python.by_id.executor": "Run",
+    "Python.by_partial_link_text.executor": "Run",
+    "Python.by_tag_class_and_name.executor": "Run",
+    "Python.by_xpath.executor": "Run",
+    "Python.checkbox_rs.executor": "Run",
+    "Python.displayed_rs.executor": "Run",
+    "Python.dynamic_dropdowns.executor": "Run",
+    "Python.explicitwait_demo_rs.executor": "Run",
+    "Python.js_alert_rs.executor": "Run",
+    "Python.radio_rs.executor": "Run",
+    "Python.static_dropdown.executor": "Run",
     "Python.verify_free_coupon_works.executor": "Run",
+    "Python.waitDemo_rs.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/jones/Python-Programs/learn_python/JUN/waits"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jones\Python-Programs\learn_python\JUN\waits" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jones\Python-Programs\learn_python\JUN\alerts" />
+      <recent name="C:\Users\jones\Python-Programs\learn_python\JUN\radios" />
+      <recent name="C:\Users\jones\Python-Programs\learn_python\JUN\dropdowns" />
       <recent name="C:\Users\jones\Python-Programs\learn_python" />
     </key>
   </component>
@@ -58,6 +96,27 @@
       <option name="presentableId" value="Default" />
       <updated>1719259374325</updated>
     </task>
+    <task id="LOCAL-00001" summary="6/25/2024">
+      <option name="closed" value="true" />
+      <created>1719345431671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719345431671</updated>
+    </task>
+    <task id="LOCAL-00002" summary="6/25/2024">
+      <option name="closed" value="true" />
+      <created>1719353737782</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719353737782</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="6/25/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="6/25/2024" />
   </component>
 </project>
