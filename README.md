@@ -1,4 +1,10 @@
-This repository encompasses my journey of learning the Python programming language and web automation utilizing selenium.
+This repository encompasses my journey of learning the Python programming language and web automation utilizing Selenium Webdriver.
+
+Below you will find concepts covered, a guide to creating a testing framework with Python, and a table that includes challenges that I have completed on various sites throughout my automation journey. 
+
+|Name|Description |Tools/Technologies | Challenges |
+|------|-----|-----|-----|
+|Sample| lalal|lalalala|
 
 
 
