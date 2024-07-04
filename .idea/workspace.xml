@@ -4,12 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00b043ce-1949-413c-b3e1-6a002daab331" name="Changes" comment="6/25/2024">
-      <change afterPath="$PROJECT_DIR$/JUN/finding_elements/by_link_text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUN/finding_elements/by_partial_link_text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUN/finding_elements/by_tag_class_and_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUN/finding_elements/by_xpath.py" afterDir="false" />
+    <list default="true" id="00b043ce-1949-413c-b3e1-6a002daab331" name="Changes" comment="6/26/2024">
+      <change afterPath="$PROJECT_DIR$/JUL/iFrames/iFrames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUL/iFrames/iframeDemo_rs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUN/pytest/suite_2_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUN/pytest/test_suite_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumChallenges/Practice/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumChallenges/Practice/sum_validation_rs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumChallenges/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumChallenges/mini_Challenge_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumChallenges/mini_Challenge_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumChallenges/mini_Challenge_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumChallenges/mini_Challenge_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumChallenges/mini_Challenge_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/webdriver.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUN/multiple_windows_and_tabs/multi_win_and_tabs.py" beforeDir="false" afterPath="$PROJECT_DIR$/JUL/demo_browser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumProjects/Practice/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/JUN/mouse_actions/actionDemo_rs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumProjects/Practice/test_input_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumChallenges/Practice/test_input_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumProjects/Practice/test_mouse_events.py" beforeDir="false" afterPath="$PROJECT_DIR$/JUN/mouse_actions/test_mouse_events.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumProjects/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/JUN/multiple_windows_and_tabs/childwindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumProjects/mini_Project_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumChallenges/mini_Project_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumProjects/mini_Project_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumChallenges/mini_Project_02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +55,9 @@
     &quot;accountId&quot;: &quot;188a2adb-19e7-4030-a38b-fcb06f0f4dd3&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/38fe3fb3-5c38-4fc1-9865-c9642f439de6_pythonTesting.zip.de6/pythonTesting/pythonSelenium/childWindow.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -49,6 +69,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in mini_Project_02.py.executor": "Run",
+    "Python tests.Python tests in suite_2_test.py.executor": "Run",
+    "Python tests.Python tests in test_suite_1.py.executor": "Run",
+    "Python.actionDemo_rs.executor": "Run",
     "Python.by_css.executor": "Run",
     "Python.by_css_and_xpath.executor": "Run",
     "Python.by_id.executor": "Run",
@@ -56,29 +80,159 @@
     "Python.by_tag_class_and_name.executor": "Run",
     "Python.by_xpath.executor": "Run",
     "Python.checkbox_rs.executor": "Run",
+    "Python.childWindow.executor": "Run",
+    "Python.childwindow.executor": "Run",
+    "Python.dat_login_test.executor": "Run",
+    "Python.demo_browser.executor": "Run",
     "Python.displayed_rs.executor": "Run",
     "Python.dynamic_dropdowns.executor": "Run",
     "Python.explicitwait_demo_rs.executor": "Run",
     "Python.js_alert_rs.executor": "Run",
+    "Python.mini_Challenge_03 (1).executor": "Run",
     "Python.radio_rs.executor": "Run",
     "Python.static_dropdown.executor": "Run",
+    "Python.sum_validation_rs.executor": "Run",
     "Python.verify_free_coupon_works.executor": "Run",
     "Python.waitDemo_rs.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/jones/Python-Programs/learn_python/JUN/waits"
+    "last_opened_file_path": "C:/Users/jones/Python-Programs/learn_python/JUL"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jones\Python-Programs\learn_python\JUL" />
+      <recent name="C:\Users\jones\Python-Programs\learn_python\SeleniumChallenges\Practice" />
       <recent name="C:\Users\jones\Python-Programs\learn_python\JUN\waits" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jones\Python-Programs\learn_python\JUL\iFrames" />
+      <recent name="C:\Users\jones\Python-Programs\learn_python\JUN\mouse_actions" />
+      <recent name="C:\Users\jones\Python-Programs\learn_python\SeleniumChallenges" />
       <recent name="C:\Users\jones\Python-Programs\learn_python\JUN\alerts" />
       <recent name="C:\Users\jones\Python-Programs\learn_python\JUN\radios" />
-      <recent name="C:\Users\jones\Python-Programs\learn_python\JUN\dropdowns" />
-      <recent name="C:\Users\jones\Python-Programs\learn_python" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.childwindow">
+    <configuration name="actionDemo_rs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JUN/mouse_actions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JUN/mouse_actions/actionDemo_rs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="childWindow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/38fe3fb3-5c38-4fc1-9865-c9642f439de6_pythonTesting.zip.de6/pythonTesting/pythonSelenium" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/38fe3fb3-5c38-4fc1-9865-c9642f439de6_pythonTesting.zip.de6/pythonTesting/pythonSelenium/childWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="childwindow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JUN/multiple_windows_and_tabs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JUN/multiple_windows_and_tabs/childwindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo_browser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JUL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JUL/demo_browser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mini_Challenge_03 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumChallenges" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumChallenges/mini_Challenge_03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.childwindow" />
+        <item itemvalue="Python.childWindow" />
+        <item itemvalue="Python.demo_browser" />
+        <item itemvalue="Python.actionDemo_rs" />
+        <item itemvalue="Python.mini_Challenge_03 (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -112,11 +266,20 @@
       <option name="project" value="LOCAL" />
       <updated>1719353737782</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="6/26/2024">
+      <option name="closed" value="true" />
+      <created>1719417001866</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719417001866</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="6/25/2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="6/25/2024" />
+    <MESSAGE value="6/26/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="6/26/2024" />
   </component>
 </project>

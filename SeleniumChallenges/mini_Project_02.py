@@ -1,3 +1,12 @@
+"""
+This challenge:
+ opens up the idrive 360 site and verifies the url
+ logs into the site - screenshots page
+ verifies the new url of the login page
+ proceeds to enter the acct details - screenshots page
+ the url is verified after logging in and the error message is as well
+"""
+
 import time
 import allure
 import pytest

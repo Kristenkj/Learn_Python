@@ -1,3 +1,7 @@
+"""
+This challenge automates the booking process for a healthcare website.
+"""
+
 from selenium.webdriver.support.ui import *
 from selenium import webdriver
 import time
