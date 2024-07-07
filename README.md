@@ -6,7 +6,7 @@ Below you will find concepts covered, a guide to creating a testing framework wi
 |------|-----|-----|-----|
 |[mini_Project_01](https://github.com/Kristenkj/Learn_Python/blob/main/SeleniumChallenges/mini_Project_01.py)| Automated the booking process for a healthcare website|Python, Pycharm, Selenium Webdriver|
 |[mini_Project_02](https://github.com/Kristenkj/Learn_Python/blob/main/SeleniumChallenges/mini_Project_02.py)| The challenge involves accessing iDrive 360, verifying URLs, logging in with account details, and capturing screenshots while checking for error messages.|Python, Pycharm, Pytest, Allure, Selenium Webdriver|
-|[mini_Challenge_03](https://github.com/Kristenkj/Learn_Python/blob/main/SeleniumChallenges/mini_Challenge_03.py)| lalal|lalalala|
+|[mini_Challenge_03](https://github.com/Kristenkj/Learn_Python/blob/main/SeleniumChallenges/mini_Challenge_03.py)| The challenge automates a website's login process, verifies the user is redirected correctly, and calculates the test's duration.|Python, Selenium Webdriver|
 |[mini_Challenge_04](https://github.com/Kristenkj/Learn_Python/blob/main/SeleniumChallenges/mini_Challenge_04.py)| lalal|lalalala|
 |[mini_Challenge_05](https://github.com/Kristenkj/Learn_Python/blob/main/SeleniumChallenges/mini_Challenge_05.py)| lalal|lalalala|
 |[mini_Challenge_06](https://github.com/Kristenkj/Learn_Python/blob/main/SeleniumChallenges/mini_Challenge_06.py)| lalal|lalalala|
