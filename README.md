@@ -1,7 +1,7 @@
 This repository encompasses my journey of learning the Python programming language and web automation utilizing Selenium Webdriver.
 
 Below you will find concepts covered, a guide to creating a testing framework with Python, and a table that includes challenges that I have completed on various sites throughout my automation journey. 
-
+## Selenium Webdriver and Python Projects/Challenges
 |Name|Description |Tools/Technologies | Challenges |
 |------|-----|-----|-----|
 |[mini_Project_01](https://github.com/Kristenkj/Learn_Python/blob/main/SeleniumChallenges/mini_Project_01.py)| Automated the booking process for a healthcare website|Python, Pycharm, Selenium Webdriver|
@@ -11,8 +11,6 @@ Below you will find concepts covered, a guide to creating a testing framework wi
 |[mini_Challenge_05](https://github.com/Kristenkj/Learn_Python/blob/main/SeleniumChallenges/mini_Challenge_05.py)| lalal|lalalala|
 |[mini_Challenge_06](https://github.com/Kristenkj/Learn_Python/blob/main/SeleniumChallenges/mini_Challenge_06.py)| lalal|lalalala|
 |[mini_Challenge_07](https://github.com/Kristenkj/Learn_Python/blob/main/SeleniumChallenges/mini_Challenge_07.py)| lalal|lalalala|
-
-
 
 
 # Python For Beginners - Concepts Covered
