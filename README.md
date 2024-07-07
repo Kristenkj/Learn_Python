@@ -5,7 +5,7 @@ Below you will find concepts covered, a guide to creating a testing framework wi
 |Name|Description |Tools/Technologies | Challenges |
 |------|-----|-----|-----|
 |[mini_Project_01](https://github.com/Kristenkj/Learn_Python/blob/main/SeleniumChallenges/mini_Project_01.py)| Automated the booking process for a healthcare website|Python, Pycharm, Selenium Webdriver|
-|[mini_Project_02](https://github.com/Kristenkj/Learn_Python/blob/main/SeleniumChallenges/mini_Project_02.py)| lalal|lalalala|
+|[mini_Project_02](https://github.com/Kristenkj/Learn_Python/blob/main/SeleniumChallenges/mini_Project_02.py)| The challenge involves accessing iDrive 360, verifying URLs, logging in with account details, and capturing screenshots while checking for error messages.|lalalala|
 |[mini_Challenge_03](https://github.com/Kristenkj/Learn_Python/blob/main/SeleniumChallenges/mini_Challenge_03.py)| lalal|lalalala|
 |[mini_Challenge_04](https://github.com/Kristenkj/Learn_Python/blob/main/SeleniumChallenges/mini_Challenge_04.py)| lalal|lalalala|
 |[mini_Challenge_05](https://github.com/Kristenkj/Learn_Python/blob/main/SeleniumChallenges/mini_Challenge_05.py)| lalal|lalalala|
